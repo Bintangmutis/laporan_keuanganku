@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "826171499038",
+    "firebase_url": "https://mini-project-2fa56-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mini-project-2fa56",
+    "storage_bucket": "mini-project-2fa56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826171499038:android:88cda5eabd39886a76040f",
+        "android_client_info": {
+          "package_name": "com.bintang.mini_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826171499038-afn9379li0fnf2ue5k8kild2fh3lemte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bintang.mini_project",
+            "certificate_hash": "d8d3b351a579d87d90b71e6c4eb0a7a78872446c"
+          }
+        },
+        {
+          "client_id": "826171499038-452ijghfvjranb83uahdscgsksm5st5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3j2RkVFTw_oGDsBn-5yhUxd32I14CH_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826171499038-452ijghfvjranb83uahdscgsksm5st5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
